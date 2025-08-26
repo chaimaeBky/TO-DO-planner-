@@ -17,7 +17,7 @@ TO DO App is a web application that helps users organize and manage personal or 
 ### Login Page
 - Secure input of email and password  
 - Automatic redirection after successful login  
-![Login Page](2.jpg)
+![Login Page](2jpg.jpg)
 
 ### Register Page
 - Create a new user account  
